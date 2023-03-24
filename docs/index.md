@@ -217,3 +217,27 @@ Continuous Integration is a software development practice that involves integrat
 ## Continuous Deployment/Delivery (CD)
 
 Continuous Deployment/Delivery is the practice of automatically deploying code changes to production after they pass a series of automated tests. CD aims to reduce the time it takes to release new features and updates to customers while ensuring the quality of the software. In CD, code changes are automatically built, tested, and deployed to a production environment. If the tests pass, the changes are automatically deployed to production. In Continuous Delivery, the code changes are automatically built and tested, but the deployment to production is triggered manually.
+
+## CI AND CD
+
+Continuous Integration (CI) is a practice in software development where developers integrate their code into a shared repository frequently. The goal is to detect and fix problems early in the development process by continuously building, testing, and integrating changes into the codebase. CI enables developers to catch issues early, improve code quality, and accelerate development.
+
+Continuous Deployment (CD) and Continuous Delivery (CD) are practices in software development that involve the automatic deployment of code changes to production environments. The goal is to automate the deployment process and reduce the time between code changes and deployment, enabling faster and more efficient delivery of software.
+
+Continuous Deployment is a practice where code changes are automatically deployed to production as soon as they pass automated tests and are reviewed by a human. The deployment process is fully automated, enabling rapid and frequent releases of new features and updates.
+
+Continuous Delivery is a practice where code changes are automatically deployed to a staging environment for testing and review. Once changes have been verified, they can be manually or automatically deployed to production. Continuous Delivery provides a balance between automation and human oversight, enabling rapid and efficient delivery of software while also ensuring quality and reliability.
+
+Some examples of CI/CD tools and practices include:
+
+1. Jenkins: Jenkins is a popular CI/CD tool that enables developers to automate the building, testing, and deployment of their applications.
+
+1. GitLab: GitLab is a platform that provides Git repository management, CI/CD, and other DevOps tools.
+
+1. Kubernetes: Kubernetes is a container orchestration platform that enables automated deployment and management of containerized applications.
+
+1. AWS CodePipeline: AWS CodePipeline is a fully managed CI/CD service provided by Amazon Web Services.
+
+1. GitHub Actions: GitHub Actions is a CI/CD tool provided by GitHub that enables developers to automate workflows and deployments.
+
+These tools and practices enable developers to automate the building, testing, and deployment of their applications, enabling faster and more efficient delivery of software.
