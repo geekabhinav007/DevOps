@@ -243,3 +243,5 @@ Some examples of CI/CD tools and practices include:
 These tools and practices enable developers to automate the building, testing, and deployment of their applications, enabling faster and more efficient delivery of software.
 
 [For Chapter 2 (GIT), click here.](git.md)
+
+[Expected Questions](eQ.md)
