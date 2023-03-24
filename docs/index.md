@@ -241,3 +241,5 @@ Some examples of CI/CD tools and practices include:
 1. GitHub Actions: GitHub Actions is a CI/CD tool provided by GitHub that enables developers to automate workflows and deployments.
 
 These tools and practices enable developers to automate the building, testing, and deployment of their applications, enabling faster and more efficient delivery of software.
+
+[For Chapter 2 (GIT), click here.](git.md)
